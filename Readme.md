@@ -13,4 +13,7 @@
 ### Digitar no console - npm install -D cypress@4.1 
 ## Criar pastas do Cypress e abrir o runer onde rodam os testes 
 ### Digitar - npx cypress open 
+## Na pasta fixtures apagamos o arquivo json dentro dela para limpar o projeto
+## Na pasta integrations/examples apagamos os arquivos também para limpar o projeto
+
 
